@@ -1,0 +1,5 @@
+# Не конвертувати кінці рядків у CSV/даннях (збереження як у джерелі)
+*.csv -text
+*.png binary
+*.docx binary
+*.ipynb text eol=lf

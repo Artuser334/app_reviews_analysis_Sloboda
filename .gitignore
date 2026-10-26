@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Локальні / службові
+report/
+.mimocode/
+
+# Великі вихідні дані (за бажанням розкоментуй, якщо CSV не комітите)
+# data/raw/
